@@ -1,4 +1,4 @@
-# Backend Study Group
+# Backend Study Group (BESP)
 
 This is a spontaneous organization that regularly shares various technologies for web development every week, but it still focuses on backend development.
 
@@ -43,3 +43,8 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2020/10/17 | Microservice in NestJS                         | hohshen   | [Slide](https://slides.com/shenhoh/deck-667389/live)                                                                                                                         | [Code](https://github.com/hohshen/fesp_tutor/tree/sample/micro)        |
 | 2020/11/08 | Web Client Side Performance Optimization & SEO | Kyle Mo   | [Slide](https://slides.com/oldmo860617/seo-web/)                                                                                                                             | [Code](https://github.com/kylemocode/react-lite-yt-embed)              |
 | 2020/11/15 | Frontend to Backend Experience                 | Jay Chou  | [Slide](https://slides.com/at7211/deck-71be17)                                                                                                                               | none                                                                   |
+
+
+### Join us today
+Welcome to join us if you are interesting 😄 
+My Email: oldmo860617@gmail.com
