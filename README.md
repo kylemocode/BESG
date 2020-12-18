@@ -46,6 +46,6 @@ This is a spontaneous organization that regularly shares various technologies fo
 
 
 ### Join us today
-Welcome to join us if you are interesting 😄 
+Feel free to join us if you are interested 😄 
 
 My Email: oldmo860617@gmail.com
