@@ -1,6 +1,6 @@
 # Backend Study Group (BESP)
 
-This is a spontaneous organization that regularly shares various technologies for web development every week, but it still focuses on backend development.
+This is a spontaneous organization that regularly shares various technologies for web development every week, mainly focuses on backend development.
 
 ### Team Members
 
