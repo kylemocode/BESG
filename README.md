@@ -43,10 +43,11 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2020/09/26 | Jenkins CI/CD                                  | Sam       | [Slide](https://hackmd.io/OFIfDLqsSHCb1Kbg2O4SVg?both)                                                                                                                       | none                                                                   |
 | 2020/10/17 | Microservice in NestJS                         | hohshen   | [Slide](https://slides.com/shenhoh/deck-667389/live)                                                                                                                         | [Code](https://github.com/hohshen/fesp_tutor/tree/sample/micro)        |
 | 2020/11/08 | Web Client Side Performance Optimization & SEO | Kyle Mo   | [Slide](https://slides.com/oldmo860617/seo-web/)                                                                                                                             | [Code](https://github.com/kylemocode/react-lite-yt-embed)              |
-| 2020/11/15 | Frontend to Backend Experience                 | Jay Chou  | [Slide](https://slides.com/at7211/deck-71be17)                                                                                                                               | none                                                                   |
+| 2020/11/15 | Frontend to Backend Experience                 | Jay Chou  | [Slide](https://slides.com/at7211/deck-71be17)                                                                                                                               | none
+| 2020/12/19 | Index, Foreign key and DAO                     | FuFu      | [Slide](https://docs.google.com/presentation/d/1tpRkB-Ciit-1QlbmLty62GgNv9xt-heH0lPw6H9791k/edit#slide=id.p)                                                                 | none                                                                   |
 
 
 ### Join us today
-Feel free to join us if you are interested 😄 
+Feel free to join us if you are interested 😄
 
 My Email: oldmo860617@gmail.com
