@@ -19,6 +19,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 - [Yan](https://github.com/Yan-Boogie)
 - [Phoenix](https://github.com/Phxww)
 - [Jxiu](https://github.com/jxiu0129)
+- [Yenting](https://github.com/chenzitw)
 
 ## Sharing List
 
