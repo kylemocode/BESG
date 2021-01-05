@@ -47,7 +47,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2020/11/15 | Frontend to Backend Experience                 | Jay Chou  | [Slide](https://slides.com/at7211/deck-71be17)                                                                                                                               | none                                                                   |
 | 2020/12/19 | Index, Foreign key and DAO                     | FuFu      | [Slide](https://docs.google.com/presentation/d/1tpRkB-Ciit-1QlbmLty62GgNv9xt-heH0lPw6H9791k/edit#slide=id.p)                                                                 | none                                                                   |
 | 2020/12/26 | Server Send Event | Vivian   | [Slide](https://slides.com/vivian_0920/deck)                                                                                                                             | none              |
-
+| 2021/01/02 | Typescript Intro | Yan | [Slide](http://slides.com/ianlai/deck-265d26) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
