@@ -1,4 +1,4 @@
-# Backend Study Group (BESG)
+# Backend Sharing Group (BESG)
 
 This is a spontaneous organization that regularly shares various technologies for web development every week, mainly focuses on backend development.
 
