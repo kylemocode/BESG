@@ -55,6 +55,11 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/01/02 | Typescript Intro | Yan | [Slide](http://slides.com/ianlai/deck-265d26) | none |
 | 2021/01/09 | SSR & Web Rendering | Tim | [Slide](https://slides.com/timothylee-2/deck) | none |
 | 2021/01/16 | OCR Project Sharing | nabroux | [Slide](https://slides.com/nabroux/ocr) | none |
+| 2021/02/20 | Stripe Quick Start | Yenting | [Hackmd](https://hackmd.io/@chenzi/stripe-quick-start) | none |
+| 2021/02/27 | 影音串流觀念與實務 | KK | [Notion](https://www.notion.so/bb12b2e014fe423d845148001d347e2c) | none |
+| 2021/03/06 | Gitlab-ci & IaC | Nathanlin | [Slide](https://slides.com/nathanlin/deck) | none |
+| 2021/03/20 | gRPC | PJ | [Github](https://github.com/pjchender/besg-grpc) | none |
+| 2021/03/28 | Kafka | Jay-Chou | [Slide](https://slides.com/at7211/kafka) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
