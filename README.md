@@ -60,6 +60,11 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/03/06 | Gitlab-ci & IaC | Nathanlin | [Slide](https://slides.com/nathanlin/deck) | none |
 | 2021/03/20 | gRPC | PJ | [Github](https://github.com/pjchender/besg-grpc) | none |
 | 2021/03/28 | Kafka | Jay-Chou | [Slide](https://slides.com/at7211/kafka) | none |
+| 2021/04/05 | Functional Programming | Ken | [Slide](https://slides.com/ken-4/fp) | none |
+| 2021/04/10 | System Design | Sam Wu | [Slide](https://slides.com/samwu-2/design-a-system-for-tinyurl/edit) | none |
+| 2021/04/17 | Materialized View | Harry | [Slide](https://slides.com/harryyuan/materialized-view) | none |
+| 2021/05/01 | Design pattern 在專案上的應用| Emily | [Slide](https://slides.com/emilyw-1/deck/) | none |
+| 2021/03/28 | Unit Testing With Cucumber | Jimmy | [Slide](https://github.com/JimmyFUFU/BESG_BDD_cucumber) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
