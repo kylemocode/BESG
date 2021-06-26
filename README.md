@@ -67,6 +67,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/05/08 | Unit Testing With Cucumber | Jimmy | [Slide](https://github.com/JimmyFUFU/BESG_BDD_cucumber) | none |
 | 2021/05/22 | 講師分享：API 驗證授權，你該知道的那些事 | John Liu | [Slide](https://s.itho.me/modernweb/2020/Slides/d202.pdf) | none |
 | 2021/05/29 | Let's go serverless & Coding your CDN | Kyle Mo | [Slide](https://slides.com/oldmo860617/deck-538199) | none |
+| 2021/06/19 | PWA | Tim | [Slide](https://slides.com/timothylee-2/pwa) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
