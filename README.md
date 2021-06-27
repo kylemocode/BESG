@@ -3,7 +3,7 @@
 This is a spontaneous organization that regularly shares various technologies for web development every week, mainly focuses on backend development.
 
 <p align="center">
-  <img width="180" height="180" src="https://i.imgur.com/wnkmXE3.png">
+  <img width="180" height="180" src="https://i.imgur.com/BPC0Ut3.png">
 </p>
 
 [Website](https://besg-official.vercel.app/) (Not completed yet)
