@@ -6,7 +6,7 @@ This is a spontaneous organization that regularly shares various technologies fo
   <img width="180" height="180" src="https://i.imgur.com/BPC0Ut3.png">
 </p>
 
-[Website](https://besg-official.vercel.app/) (Not completed yet)
+[Website](https://besg-web.vercel.app/) (Not completed yet)
 
 
 
