@@ -73,6 +73,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/06/19 | PWA | Tim | [Slide](https://slides.com/timothylee-2/pwa) | none |
 | 2021/06/26 | Web Security | Vivian | [Slide](https://slides.com/vivian_0920/deck-44289f/) | none |
 | 2021/06/26 | Consensus Algo | Yan | [Slide](https://slides.com/ianlai/deck-baace7) | none |
+| 2021/07/19 | Difi 淺談 | Jxiu | [Slide](https://slides.com/jxiuh/defi) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
