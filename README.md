@@ -7,27 +7,6 @@ This is a spontaneous organization that regularly shares various technologies fo
 </p>
 
 
-
-
-### Team Members
-
-- [Kyle Mo](https://github.com/kylemocode)
-- [hohshen](https://github.com/hohshen)
-- [Tim](https://github.com/timtnleeProject)
-- [Parker](https://github.com/Parkerhiphop)
-- [Jay-Chou](https://github.com/at7211)
-- [Harry](https://github.com/harryuan65)
-- [Vivian](https://github.com/vivian0920)
-- [Jennie Lin](https://github.com/jennieLin101086)
-- [nabroux](https://github.com/nabroux)
-- [Sam Wu](https://github.com/UnderSam)
-- [Cyihsu](https://github.com/cyihsu)
-- [Jimmy](https://github.com/JimmyFUFU)
-- [Yan](https://github.com/Yan-Boogie)
-- [Phoenix](https://github.com/Phxww)
-- [Jxiu](https://github.com/jxiu0129)
-- [Yenting](https://github.com/chenzitw)
-
 ## Sharing List
 
 | Time       | Topic                                          | Presenter | Slide                                                                                                                                                                        | Code                                                                   |
