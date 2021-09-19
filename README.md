@@ -1,6 +1,6 @@
-# Backend Sharing Group (BESG)
+# BESG
 
-This is a spontaneous organization that regularly shares various technologies for web development every week, mainly focuses on backend development.
+This is a spontaneous organization that regularly shares various technologies for web development every week online.
 
 <p align="center">
   <img width="180" height="180" src="https://i.imgur.com/BPC0Ut3.png">
