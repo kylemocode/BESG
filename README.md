@@ -52,7 +52,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/06/19 | PWA | Tim | [Slide](https://slides.com/timothylee-2/pwa) | none |
 | 2021/06/26 | Web Security | Vivian | [Slide](https://slides.com/vivian_0920/deck-44289f/) | none |
 | 2021/06/26 | Consensus Algo | Yan | [Slide](https://slides.com/ianlai/deck-baace7) | none |
-| 2021/07/19 | Difi 淺談 | Jxiu | [Slide](https://slides.com/jxiuh/defi) | none |
+| 2021/07/19 | Defi 淺談 | Jxiu | [Slide](https://slides.com/jxiuh/defi) | none |
 | 2021/08/14 | Web XSS challenge | Huli(講師) | private content | none |
 | 2021/08/28 | 跨平台開發 | Bingo(講師) | private content | none |
 | 2021/09/18 | Code Review 實務經驗 | Nic(講師） | private content | none |
