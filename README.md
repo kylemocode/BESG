@@ -21,6 +21,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2020/06/18 | Distributed Database                           | cyihsu    | [Slide](https://github.com/cyihsu/talks/blob/master/106403025_DistributedDB.pdf)                                                                                             | [Code](https://github.com/cyihsu/koa-grounded)                         |
 | 2020/06/27 | Server Cache                                   | Jennie    | [Slide](https://github.com/jennieLin101086/Redis/blob/master/Redis.pptx)                                                                                                     | none                                                                   |
 | 2020/07/04 | DB Transaction & ACID                          | FuFu      | [Slide](https://github.com/JimmyFUFU/BackendStudy/blob/master/0704/Transaction%20_%20ACID.pdf)                                                                               | none                                                                   |
+| 2020/07/11 | 大型系統入門                    | Luka(講師)      | [Slide](https://lukajojo.medium.com/%E9%87%91%E9%AD%9A%E8%85%A6%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%AF%AB%E7%9A%84%E5%A4%A7%E5%9E%8B%E7%B3%BB%E7%B5%B1%E5%85%A5%E9%96%80-329a0f51b51c)                                                                               | none                                                                   |
 | 2020/07/18 | Design Patterns                                | Vivian    | [Slide](https://github.com/vivian0920/Back-end-study/tree/master/Design%20pattern)                                                                                           | none                                                                   |
 | 2020/08/08 | Oauth                                          | Tim       | [Slide](https://docs.google.com/presentation/d/1tYvzpMCfUbHqvUZMUNQKTjbB3tw3aOWFROVIEsGhfEU/edit?usp=sharing)                                                                | none                                                                   |
 | 2020/08/11 | Tree structure in database                     | Yan       | [Slide](https://slides.com/ianlai/deck-4028d3)                                                                                                                               | none                                                                   |
@@ -56,6 +57,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/08/14 | Web XSS challenge | Huli(講師) | private content | none |
 | 2021/08/28 | 跨平台開發 | Bingo(講師) | private content | none |
 | 2021/09/18 | Code Review 實務經驗 | Nic(講師） | private content | none |
+| 2021/09/25 | GraphQL Overview | Jay Chou | [Slide](https://slides.com/at7211/graphql-overview) | none |
 
 
 ### Join us today
