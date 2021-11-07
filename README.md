@@ -58,9 +58,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/08/28 | 跨平台開發 | Bingo(講師) | private content | none |
 | 2021/09/18 | Code Review 實務經驗 | Nic(講師） | private content | none |
 | 2021/09/25 | GraphQL Overview | Jay Chou | [Slide](https://slides.com/at7211/graphql-overview) | none |
-
-
-### Join us today
-Feel free to join us if you are interested 😄
-
-My Email: oldmo860617@gmail.com
+| 2021/10/02 | 加密演算法介紹 | Tim Lee | [Slide](https://hackmd.io/@timtnlee/SyptrrSNK) | none |
+| 2021/10/23 | Rate Limiting | 哲維 | [Slide](https://docs.google.com/presentation/d/1HvBIIt3PV91k86HfCb-Eherq4Z6uWXO5FooWY1JeFJ8/edit?usp=sharing) | none |
+| 2021/10/30 | 關於資料庫效能的眉眉角角 | Harry | [Slide](https://hackmd.io/BYKWZ670RdW0zO3ypwu21A?view) | none |
+| 2021/11/06 | Data Engineering Intro | Sam | [Slide](https://slides.com/samwu-2/introduction-to-data-engineering) | none |
