@@ -62,3 +62,4 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/10/23 | Rate Limiting | 哲維 | [Slide](https://docs.google.com/presentation/d/1HvBIIt3PV91k86HfCb-Eherq4Z6uWXO5FooWY1JeFJ8/edit?usp=sharing) | none |
 | 2021/10/30 | 關於資料庫效能的眉眉角角 | Harry | [Slide](https://hackmd.io/BYKWZ670RdW0zO3ypwu21A?view) | none |
 | 2021/11/06 | Data Engineering Intro | Sam | [Slide](https://slides.com/samwu-2/introduction-to-data-engineering) | none |
+| 2021/11/14 | Design System | Parker | [Slide](https://slides.com/parkerhiphop/deck-9bea0b) | none |
