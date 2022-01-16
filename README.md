@@ -63,3 +63,4 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/10/30 | 關於資料庫效能的眉眉角角 | Harry | [Slide](https://hackmd.io/BYKWZ670RdW0zO3ypwu21A?view) | none |
 | 2021/11/06 | Data Engineering Intro | Sam | [Slide](https://slides.com/samwu-2/introduction-to-data-engineering) | none |
 | 2021/11/14 | Design System | Parker | [Slide](https://slides.com/parkerhiphop/deck-9bea0b) | none |
+| 2022/01/15 | DDD mix Clean Architecture | Jimmy | [Slide](https://docs.google.com/presentation/d/1XFomnDxnOMeP9U1vObN2oWIcWbhRMUoKotrabO_KEjE/edit?usp=sharing) | none |
