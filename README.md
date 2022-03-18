@@ -64,3 +64,4 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/11/06 | Data Engineering Intro | Sam | [Slide](https://slides.com/samwu-2/introduction-to-data-engineering) | none |
 | 2021/11/14 | Design System | Parker | [Slide](https://slides.com/parkerhiphop/deck-9bea0b) | none |
 | 2022/01/15 | DDD mix Clean Architecture | Jimmy | [Slide](https://docs.google.com/presentation/d/1XFomnDxnOMeP9U1vObN2oWIcWbhRMUoKotrabO_KEjE/edit?usp=sharing) | none |
+| 2022/03/17 | Linked List 各式應用 | Nathan | [Slide](https://slides.com/nathanlin/linked-list) | none |
